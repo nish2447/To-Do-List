@@ -43,7 +43,7 @@ class _AddTaskScreenState extends State<AddTaskScreen> {
                 'Add Task',
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  color: Colors.lightBlueAccent,
+                  color: Color(0xFF035AA6),
                   fontSize: 30.0,
                   fontWeight: FontWeight.w500,
                 ),
@@ -63,7 +63,7 @@ class _AddTaskScreenState extends State<AddTaskScreen> {
                   contentPadding: EdgeInsets.all(2.0),
                   border: UnderlineInputBorder(
                     borderSide: BorderSide(
-                      color: Colors.lightBlueAccent,
+                      color: Color(0xFF035AA6),
                     ),
                   ),
                 ),

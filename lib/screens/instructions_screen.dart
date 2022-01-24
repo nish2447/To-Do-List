@@ -67,7 +67,7 @@ class InstructionTile extends StatelessWidget {
         5.0,
       ),
       decoration: BoxDecoration(
-        color: Colors.lightBlueAccent,
+        color: Color(0xFF035AA6),
         borderRadius: BorderRadius.all(Radius.circular(20.0)),
       ),
       child: ListTile(
